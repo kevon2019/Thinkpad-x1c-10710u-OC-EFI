@@ -1,2 +1,2 @@
-# Thinkpad-x1c-7th-OC-EFI
+# Thinkpad-x1c-10710u-OC-EFI
 20221217_OC088版本
